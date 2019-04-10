@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Futura" className="FskyFont_unicode" url="./files/fonts/font-0-0-201948144214912.swf" ttfurl="./files/fonts/font-0-0-201948144214912.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-1-0-201948144214926.swf" ttfurl="./files/fonts/font-1-0-201948144214926.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-1-1-201948144214938.swf" ttfurl="./files/fonts/font-1-1-201948144214938.ttf"/>
+  </fonts>
+</data>
